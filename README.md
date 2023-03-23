@@ -25,8 +25,10 @@ Table of Content
 
 2. Circuit
 
-* Make a circuit accoording to  ![schematic](https://github.com/ThinhLe279/Temperature_Measurement_PT100/blob/main/schematic.png)
+* Make a circuit accoording to 
 
+
+ ![schematic](https://github.com/ThinhLe279/Temperature_Measurement_PT100/blob/main/schematic.png)
 
 
 
